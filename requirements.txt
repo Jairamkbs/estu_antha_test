@@ -1,0 +1,6 @@
+nbconvert
+nbformat
+numpy
+pandas
+requests
+boto3
